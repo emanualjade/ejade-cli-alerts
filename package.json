@@ -1,6 +1,6 @@
 {
   "name": "ejade-cli-alerts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error. Works on macOs, Linux, Windows.",
   "license": "MIT",
   "repository": "emanualjade/ejade-cli-alerts",
