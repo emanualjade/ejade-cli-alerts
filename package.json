@@ -1,0 +1,30 @@
+{
+  "name": "ejade-cli-alerts",
+  "version": "0.0.1",
+  "description": "Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error. Works on macOs, Linux, Windows.",
+  "license": "MIT",
+  "repository": "emanualjade/ejade-cli-alerts",
+  "author": {
+    "name": "Emanual Jade",
+    "email": "emanualjade@gmail.com",
+    "url": "https://cracklehat.com"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ejade-cli-alerts",
+    "Emanual Jade",
+    "cracklehat"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "log-symbols": "^4.0.0",
+    "prettier": "^2.1.2"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "format": "prettier --write \"./**/*.{js,json}\""
+  }
+}
